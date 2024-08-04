@@ -1,4 +1,4 @@
-# Setup Practice Environment
+# Setup Practice Environment & Attaching A Database
 
 The files you need for following my Data Analyst Portfolio projects are:
 
